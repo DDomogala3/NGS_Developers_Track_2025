@@ -1,5 +1,5 @@
-This program is part of an exercise from the "Practical Programming" intro to programming book published in 2012. 
-It takes a DNA sequence as input and counts the bases and lists it in the GUI. 
-It uses TKinter to take user input and display the base count when the button is entered. 
+Repository of scripts that are to be used as exercises for the <ins>NGS_Developers_Track_2025</ins> **or** <ins>The MDL Coders Club</ins>.
 
-Future versions will take a *TRUNCATED* FASTA file as input and count the number of bases, or count groups of sequences. 
+Scripts are derived from the introduction to computer science book *Practical Programming: An introduction to Computer Science Using Python.*
+
+The website for this book with more offerings can be found here: https://pragprog.com/
