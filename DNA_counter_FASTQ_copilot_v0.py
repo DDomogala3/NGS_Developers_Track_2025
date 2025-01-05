@@ -43,8 +43,8 @@ def open_file():
                 
                 sequences.append(sequence)
             # Join all sequences into one string for counting
-            text = ''.join(sequences)
-            label.config(text="A: %s T: %s G: %s C: %s" % DNA_count(text))
+            combined_sequence = ''.join(sequences)
+            label.config(text="A: %s T: %s G: %s C: %s" % DNA_count(combined_sequence))
 
 window = tk.Tk()
 window.title("DNA Base Percentage Counter")
